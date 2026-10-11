@@ -1,0 +1,5 @@
+:root { color-scheme: dark; font-family: system-ui, sans-serif; background: #0b0b0b; color: #f5f5f2; }
+body { margin: 0; min-height: 100vh; display: grid; place-items: center; }
+main { width: min(680px, 86vw); border-top: 1px solid #777; padding-top: 2rem; }
+h1 { font-size: clamp(3rem, 12vw, 7rem); letter-spacing: -.07em; line-height: .9; margin: 1rem 0; }
+p { color: #aaa; line-height: 1.7; }
