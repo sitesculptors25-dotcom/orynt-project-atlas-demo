@@ -1,0 +1,13 @@
+{
+  "name": "orynt-project-atlas-demo",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Demo developer-project catalog for testing ORYNT repository detail pages.",
+  "type": "module",
+  "scripts": {
+    "demo": "node src/index.js",
+    "test": "node --test test/ranking.test.js"
+  },
+  "keywords": ["orynt", "developer-tools", "project-discovery", "open-source", "catalog"],
+  "license": "MIT"
+}
